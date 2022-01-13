@@ -205,7 +205,7 @@ public class UserController {
 
 好了，关于Swagger2在项目中的使用教程就到这里。
 
-> 源码下载: https://github.com/CokeMeI/myProjects/springboot-swagger-demo
+> 源码下载: https://github.com/CokeMeI/myProjects/tree/main/springboot-swagger-demo
 
 
 
